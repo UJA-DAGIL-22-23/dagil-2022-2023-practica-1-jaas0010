@@ -9,7 +9,8 @@ Tus tareas consisten en:
 <img src='/cat.jpg' width='640px'>
 ### Captura de Trello
 <img src='/CapTrello.png' width='1845px'>
-
+### Captura GitHub
+<img src='/CapGithub' width='1844px'>
 Alumno del grado de Informática de la Universidad de Jaén.
 * **Correo**: jaas0010@red.ujaen.es
 * **Web**:    "web"
