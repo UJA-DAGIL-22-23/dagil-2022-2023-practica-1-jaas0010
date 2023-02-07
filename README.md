@@ -7,6 +7,8 @@ Tus tareas consisten en:
 
 ### José Ángel Ángeles Santiago
 <img src='/cat.jpg' width='640px'>
+### Captura de Trello
+<img src='/CapTrello.png' width='1845px'>
 
 Alumno del grado de Informática de la Universidad de Jaén.
 * **Correo**: jaas0010@red.ujaen.es
