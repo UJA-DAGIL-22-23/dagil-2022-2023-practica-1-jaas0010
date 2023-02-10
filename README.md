@@ -20,5 +20,5 @@ Alumno del grado de Informática de la Universidad de Jaén.
 * **Web**:    "web"
 * **Usuario GitHub**:    "jaas0010"
 * **GitHub**: https://github.com/jaas0010/
-* ** Perfil Trello**: https://trello.com/u/joseangelangelessantiago
+* **Perfil Trello**: https://trello.com/u/joseangelangelessantiago
 * **Tablero Trello**: https://trello.com/u/
