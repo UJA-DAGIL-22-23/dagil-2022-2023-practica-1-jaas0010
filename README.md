@@ -10,9 +10,13 @@ Tus tareas consisten en:
 ### Captura de Trello
 <img src='/CapTrello.png' width='1845px'>
 ### Captura GitHub
+<img src='/CapTrello2.png' width='1845px'>
+### Captura GitHub
 <img src='/CapGithub.png' width='1844px'>
 Alumno del grado de Informática de la Universidad de Jaén.
 * **Correo**: jaas0010@red.ujaen.es
 * **Web**:    "web"
+* **Usuario GitHub**:    "jaas0010"
 * **GitHub**: https://github.com/jaas0010/
-* **Trello**: https://trello.com/u/joseangelangelessantiago
+* ** Perfil Trello**: https://trello.com/u/joseangelangelessantiago
+* **Tablero Trello**: * **Trello**: https://trello.com/u/
