@@ -9,8 +9,8 @@ Tus tareas consisten en:
 <img src='/cat.jpg' width='640px'>
 ### Captura de Trello
 <img src='/CapTrello.png' width='1845px'>
-### Captura GitHub
-<img src='/CapTrello2.png' width='1845px'>
+### Captura Trello Terminado
+<img src='/CapTrello2.PNG' width='1845px'>
 ### Captura GitHub
 <img src='/CapGithub.png' width='1844px'>
 Alumno del grado de Informática de la Universidad de Jaén.
